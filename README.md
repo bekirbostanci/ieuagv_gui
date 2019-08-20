@@ -1,6 +1,5 @@
 # ROS QT GUI's
-This project created different gui. All nodes have different aim. </br>
-
+There are different gui example. For test the trajectory you can use these nodes. Also this nodes are created with qt thus you can change widget type. Localization and other nodes are use some special topics for ieu_agv project so that you have to check odom and uwb_data_topic and localization_data_topic.
 
 ### Localization Gui
 ```
